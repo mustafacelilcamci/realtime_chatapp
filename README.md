@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Detailed Project Plan: WhatsApp Web Clone
 This project is divided into two separate folders at the root level: one for the frontend (React 18 + TypeScript, Tailwind CSS, Vite) and one for the backend (Node.js + Express, MongoDB, JWT-based token service, server-side QR code generation). Below is a step-by-step outline of the changes and files to be created for each part, with error handling and best practices incorporated.
 
@@ -238,3 +239,6 @@ The resulting structure should be as follows:
 - API integration is handled via Axios with proper error management, ensuring secure token storage and validation.
 - UI/UX adheres to modern design principles with smooth animations, accessibility, and the WhatsApp green theme.
 - Deployment strategies and testing methods (using curl) are outlined for both parts.
+=======
+# realtime_chatapp
+>>>>>>> cae64f9640b2837c21b5bb503f8bfe6659f17dee
